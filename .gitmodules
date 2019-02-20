@@ -1,9 +1,9 @@
 [submodule "src/ThirdParty/Catch"]
-	path = src/ThirdParty/Catch
+	path = subprojects/Catch
 	url = https://github.com/philsquared/Catch
 [submodule "src/ThirdParty/usbmon"]
-	path = src/ThirdParty/usbmon
+	path = subprojects/usbmon
 	url = https://github.com/radosroka/usbmon
 [submodule "src/ThirdParty/PEGTL"]
-	path = src/ThirdParty/PEGTL
+	path = subprojects/PEGTL
 	url = https://github.com/ColinH/PEGTL
